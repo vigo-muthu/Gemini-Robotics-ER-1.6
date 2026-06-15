@@ -11,3 +11,6 @@ The system performs:
 * Zoomed Inspection: Crops and enlarges the selected object.
 
 * Part Identification: Detects and labels individual components of the object.
+  
+<img width="1459" height="885" alt="output_bounding box_zoom" src="https://github.com/user-attachments/assets/231ad43c-642a-4609-a145-8fbf1a97911a" />
+
