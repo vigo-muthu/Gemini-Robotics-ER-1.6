@@ -17,3 +17,8 @@ The system performs:
    
 7. Part Identification:
    Detects and labels individual components of the object.
+   
+
+<img width="792" height="773" alt="image" src="https://github.com/user-attachments/assets/71b6484d-1ade-4a28-afa2-5534a18e2b7e" />
+
+<img width="1352" height="786" alt="image" src="https://github.com/user-attachments/assets/c669dfcb-1cad-46ab-86f5-9c8e606afd62" />
