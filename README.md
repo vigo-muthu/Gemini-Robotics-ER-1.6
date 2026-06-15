@@ -17,6 +17,10 @@ This project uses the Gemini API. To use the API, you need a Google AI Studio AP
  Jupyter Notebook, JupyterLab, Visual Studio Code (VS Code)
 
 4. Required Packages
+* sudo apt update && sudo apt install python3 python3-pip -y
+* pip3 install jupyterlab
+* python3 -m jupyterlab   /// open jupyterlab
+* pip3 install google-genai
 * pip install google-genai pillow matplotlib
 
 5. Upload an image and test.
